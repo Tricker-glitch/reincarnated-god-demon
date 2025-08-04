@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Chapter 1 - The Mushroom Quest</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <style>
+    body {
+      background-color: #0f0f0f;
+      color: #ffffff;
+      font-family: 'Segoe UI', sans-serif;
+      line-height: 1.6;
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      color: gold;
+      text-align: center;
+    }
+    a {
+      color: #00eaff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .nav {
+      margin-top: 40px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Chapter 1: The Mushroom Quest</h1>
+
+  <p>The sun filtered softly through the dense canopy of the Southern Forest, painting golden patterns on the forest floor. Morning mist clung to the earth like a veil, and the scent of moss, wet bark, and wildflowers filled the air.</p>
+
+  <p>At the forest’s edge, two figures stood, stretching and yawning after a long walk from their village.</p>
+
+  <p><strong>Tricker</strong> and <strong>Flicker</strong>, twin brothers—identical in face but not in soul. Raised as ordinary boys in a poor southern town, they bore the weight of secrets far beyond their age. Their parents, <em>Shirori</em> and <em>Bakamai</em>, had always reminded them: “Hide your strength. Live among humans. Wait for the right time.”</p>
+
+  <p>Now twenty, they had joined the Adventurer's Guild under false identities. With a glowing blue <strong>magic orb</strong> around their necks, their powers remained sealed and their rank displayed as the lowest possible — <strong>E-rank</strong>. It was the perfect disguise.</p>
+
+  <p>Today’s quest was simple: <em>Collect 100 wild mushrooms.</em></p>
+
+  <p>“We should be done in no time,” Flicker said, adjusting the strap on his wooden pack.</p>
+
+  <p>“Race you to 50,” Tricker grinned, already darting off into the trees.</p>
+
+  <p>They scouted the outskirts first, hopping over roots and crawling under vines. Within an hour, they had 80 mushrooms—40 each.</p>
+
+  <p>“Let’s split up for the last 20,” Flicker suggested. “I’ll head deeper.”</p>
+
+  <p>Tricker paused, hesitating for just a moment. “Be careful,” he said, his voice unusually serious.</p>
+
+  <p>Flicker nodded, waving as he disappeared into the thick fog beyond the tree line.</p>
+
+  <hr>
+
+  <p>As Flicker moved deeper, the air grew colder. The birds stopped singing. Strange glyphs appeared carved into trees—runes older than memory.</p>
+
+  <p>Then he felt it. A vibration in his chest. His magic orb pulsed... and for the first time in years, <em>glowed gold</em>.</p>
+
+  <p>“What is this feeling...?” he whispered, reaching for his sword.</p>
+
+  <p>Suddenly, the trees parted—and before him stood a beast.</p>
+
+  <p>Massive, horned, cloaked in blue fire. A <strong>Legendary Monster</strong>.</p>
+
+  <p>It growled low, eyes locked onto Flicker like a predator who knew exactly who he was.</p>
+
+  <p>“You... Godborn.”</p>
+
+  <p>Flicker’s eyes widened. “What did you say?”</p>
+
+  <p>The seal on his orb began to crack.</p>
+
+  <p>Far away, Tricker stopped mid-step. His orb too flickered red, and a dark wind brushed past him.</p>
+
+  <p>He turned sharply. “Flicker?”</p>
+
+  <p>And he ran, faster than any E-rank ever could.</p>
+
+  <div class="nav">
+    <p><a href="index.html">← Back to Home</a> | <a href="chapter2.html">Next →</a></p>
+  </div>
+
+</body>
+</html>
